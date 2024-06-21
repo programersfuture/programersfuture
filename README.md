@@ -17,4 +17,7 @@ App para pedidos de comida
 ## Gestión Eficiente de Pedidos
 -Una vez realizado el pedido, los usuarios recibirán notificaciones en tiempo real sobre el estado del pedido confirmado, en preparación, en camino, entregado.
 -Los restaurantes recibirán los detalles del pedido de manera clara y organizada para facilitar la preparación y entrega rápida de los alimentos.
-##
+## Valoraciones y Comentarios
+- Los usuarios podrán dejar valoraciones y comentarios sobre los restaurantes y los productos que ordenaron.
+- Esto no solo ayuda a otros usuarios a tomar decisiones informadas, sino que también proporciona retroalimentación valiosa a los restaurantes para mejorar sus servicios.
+## 
