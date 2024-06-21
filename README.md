@@ -20,4 +20,4 @@ App para pedidos de comida
 ## Valoraciones y Comentarios
 - Los usuarios podrán dejar valoraciones y comentarios sobre los restaurantes y los productos que ordenaron.
 - Esto no solo ayuda a otros usuarios a tomar decisiones informadas, sino que también proporciona retroalimentación valiosa a los restaurantes para mejorar sus servicios.
-## 
+
